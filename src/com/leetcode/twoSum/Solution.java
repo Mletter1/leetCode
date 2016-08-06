@@ -1,7 +1,7 @@
 package com.leetcode.twoSum;
 
 /**
- * Created by Shayna on 8/6/16.
+ * Created by mletter1 on 8/6/16.
  */
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
