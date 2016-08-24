@@ -28,6 +28,7 @@
 *.iws
 *.class
 *.iml
+*.jar
 
 ## Plugin-specific files:
 
