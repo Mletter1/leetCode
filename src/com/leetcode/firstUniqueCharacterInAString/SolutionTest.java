@@ -10,10 +10,6 @@ public class SolutionTest {
   @org.junit.Before
   public void setUp() throws Exception {
     solution = new Solution();
-    System.out.println(" solution :" + solution.firstUniqChar("ab") + "");
-    System.out.println(" solution :" + solution.firstUniqChar("aa") + "");
-    System.out.println(" solution :" + solution.firstUniqChar("z") + "");
-    System.out.println(" solution :" + solution.firstUniqChar("aab") + "");
   }
 
   @org.junit.After
