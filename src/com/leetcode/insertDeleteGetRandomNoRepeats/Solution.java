@@ -2,6 +2,10 @@ package com.leetcode.insertDeleteGetRandomNoRepeats;
 
 import java.util.Random;
 
+/**
+ * I made this a little more complicated than I had to by implementing a
+ * hashmap from scratch for fun
+ */
 public class Solution {
   private Wrapper[] hashMap = null;
   private int[] indexes = null;
@@ -127,17 +131,17 @@ public class Solution {
   private class Wrapper{
     private int val;
     private int hashIndex;
-    public Wrapper(int val, int index){
+    Wrapper(int val, int index){
       this.val = val;
       this.hashIndex = index;
     }
-    public void setHashIndex(int hashIndex){
+    void setHashIndex(int hashIndex){
       this.hashIndex = hashIndex;
     }
-    public int getHashIndex(){
+    int getHashIndex(){
       return this.hashIndex;
     }
-    public int getVal(){
+    int getVal(){
       return this.val;
     }
   }
