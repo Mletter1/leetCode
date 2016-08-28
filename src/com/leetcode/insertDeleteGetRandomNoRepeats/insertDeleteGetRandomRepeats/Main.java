@@ -1,4 +1,4 @@
-package com.leetcode.insertDeleteGetRandomNoRepeats;
+package com.leetcode.insertDeleteGetRandomNoRepeats.insertDeleteGetRandomRepeats;
 
 /**
  * Created by mletter1 on 8/23/16.

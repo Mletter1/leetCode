@@ -1,4 +1,4 @@
-package com.leetcode.insertDeleteGetRandomNoRepeats;
+package com.leetcode.insertDeleteGetRandomRepeats;
 
 import java.util.Random;
 

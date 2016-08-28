@@ -1,7 +1,6 @@
-package com.leetcode.insertDeleteGetRandomNoRepeats;
+package com.leetcode.insertDeleteGetRandomNoRepeats.insertDeleteGetRandomRepeats;
 
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  * Created by Shayna on 8/28/16.
@@ -19,7 +18,7 @@ public class SolutionTest {
   }
   @Test
   public void insert() throws Exception {
-    
+
   }
 
   @Test
