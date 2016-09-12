@@ -1,4 +1,4 @@
-package com.leetcode.insertDeleteGetRandomNoRepeats.insertDeleteGetRandomRepeats;
+package com.leetcode.insertDeleteGetRandomNoRepeats;
 
 import org.junit.Test;
 

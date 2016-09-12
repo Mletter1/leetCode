@@ -1,4 +1,4 @@
-package com.leetcode.kthSmallestElementInASortedMatrix.findTheDifference;
+package com.leetcode.kthSmallestElementInASortedMatrix;
 
 /**
  * Created by mletter1 on 9/4/16.
